@@ -53,3 +53,20 @@ the resume is that the beach side is gonna be heavy into iron and construction p
 - I'll probably keep this little settlement. I don't intend for it to grow beyond 800 or so. it'll probably spread toward the left there. the part back of the coal mine is where I want to put the second settlement, becasue it'll probably grow bigger.
 - the rest of the island will run off of contracts importing all of the things that it needs, but I intend to keep this section around (paused) with mining reserves to be able to bail out if contracts don't work or something.
   - in reality, this a fanciful idea because I'll obviously reload the save, instead of activate an emergency failsafe. it's fun for me to play the game as if there are additional stresses, as if this was the production for a larger military operation. as such, in such "real-life" situations, a loading isn't possible so I have to have these back procedures. also when I played without loading so much, I had techniques to bail myself out of situations.
+
+### q- restart to see bricks mechanic
+
+I restarted the game to try out the new bricks mechanic deployed in 0.4.13. it's nice that I don't have to dump dirt anymore.
+
+the plan is to setup bricks and dirt to run as a backup to the concrete system. I'm going to try and run a lot of it off of bricks allowing me to get rid of dirt a lot easier. concrete is nice though because it gets rid of slag turning them into bricks. for every iron ore smelted, half of it turns into slag, so until recycling is online a lot of extra slag is created. this is good for creating concrete, and then later little slag is output, cause scrap doesn't create slag. that's the plan so far.
+
+before I began I played withe the non-admiral settings, I used these
+
+(TODO picture)
+
+the things I noticed is that normal elevation, the top part is at 45. this is pretty high. -25% reduced cliff heights, it's at 34 -- too easy I think. full hight I think bas 65 or 66 -- really high, and the back  part of the inner area isn't even accessible bevause of the cliff hights and the coal mine. I think this setting is close to impossible. I wanna beat this one first before trying that one yet.
+
+other things I want to change from p-:
+
+- where I make the ramp up to the next level, which I will now do diagonally up the iron.
+- I set the farms more over
