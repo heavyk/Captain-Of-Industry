@@ -2,6 +2,14 @@
 
 I intend to put various captain of the industry things related. the game has inspired such a flurry of thought for me that I want to begin to organise it.
 
+### save format
+
+I'm still experimenting with the format for save files. I'm between two designs. presently, I think I'm working ton the inferior one.
+
+#### map- x.y.z-n - feature
+
+`x` is the major version of the map. I think of the map as a build order, so I kinda have a flow in my mind of things that need to be accomplished. each `y` is a major version in that system, and `x` are just incremental saves along the way which may be only a few months apart. `n` features are small changes that were made to the save file without unpausing the game (like forgot to turn something on)
+
 ### new haven
 
 hated it from the first time I played it. played it again with jaron the one time, and even though it was on sailor, it was still too easy and gave me a weird vibe I didn't like. it felt like I was connected to the other noobs that are looking at "such a complex game" and can't figure out what is fun about moving sand around on an unbelievably contrived map. the map is contrived, but not in a good way like crater or ysnp.
@@ -70,7 +78,7 @@ other things I want to change from p-:
 
 - where I make the ramp up to the next level, which I will now do diagonally up the iron.
 - I set the farms more over to the right, cause once I clear the mountain to the left, I'll make two rows of farms. with 2, then 4, then 6, then 8 farms, the settlement should be able to expand to 2-3k without a problem.
-- instead of dumping dirt into the sea, I'm going to use it to make bricks I'll accumulate slag, 
+- instead of dumping dirt into the sea, I'm going to use it to make bricks I'll accumulate slag,
 
 gameplan:
 - I'm going to shave the entire middle part down first to 5 using the dirt to create bricks, and the rock to make a pier in front of the settlement. this is going to be the strat for the entire top part as well. the goal is to take all of the dirt and turn it into bricks and just use the rock to expand the island outward
