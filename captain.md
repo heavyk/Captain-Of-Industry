@@ -8,11 +8,15 @@
 
 - when unity building things, it'd be nice to see the resources cost for the upgrade (in addition to the unity cost)
 
-- in the load screen, it'd be really nice to show the in-game time in addition to the wall clock time, so I can tell how far along in the game each save is at.
+- in the loading dialog, it'd be really nice to show the in-game time in addition to the wall clock time, so I can tell how far along in the game each save is at.
+
+- not sure if it's intentional, but retaining walls looks like it needs tech lab 2, otherwise the research looks like it should be between smart routing and resarch lab 2.
 
 ### bugs
 
-- if I am deconstructing a storage of CP2 and it's set to be empty, and then I unity build some belts costing CP2, it'll take the CP2 out of the shipyard before the storage of CP2 (save 0.3.4-1)
+- probably an insignificant bug, but p- initial 0.0.0 fails to load
+
+- if I am deconstructing a storage of CP2 and it's set to be empty, and then I unity build some belts costing CP2, it'll take the CP2 out of the shipyard before the storage of CP2 (save p- 0.3.4-1)
 
 - if a belt or pipe is connected but not built, the building on 'auto' will not receive truck imports (unconfirmed in latest version)
 

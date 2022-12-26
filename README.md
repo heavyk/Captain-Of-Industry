@@ -69,4 +69,9 @@ the things I noticed is that normal elevation, the top part is at 45. this is pr
 other things I want to change from p-:
 
 - where I make the ramp up to the next level, which I will now do diagonally up the iron.
-- I set the farms more over
+- I set the farms more over to the right, cause once I clear the mountain to the left, I'll make two rows of farms. with 2, then 4, then 6, then 8 farms, the settlement should be able to expand to 2-3k without a problem.
+- instead of dumping dirt into the sea, I'm going to use it to make bricks I'll accumulate slag, 
+
+gameplan:
+- I'm going to shave the entire middle part down first to 5 using the dirt to create bricks, and the rock to make a pier in front of the settlement. this is going to be the strat for the entire top part as well. the goal is to take all of the dirt and turn it into bricks and just use the rock to expand the island outward
+- I'll setup
