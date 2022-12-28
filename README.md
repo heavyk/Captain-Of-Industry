@@ -10,6 +10,12 @@ I'm still experimenting with the format for save files. I'm between two designs.
 
 `x` is the major version of the map. I think of the map as a build order, so I kinda have a flow in my mind of things that need to be accomplished. each `y` is a major version in that system, and `x` are just incremental saves along the way which may be only a few months apart. `n` features are small changes that were made to the save file without unpausing the game (like forgot to turn something on)
 
+#### map- subsystems - x.y.z-n
+
+in this one, I for the map, I have different subsystems, which have sort of like milestones to them. I set out to build certain objectives in the form of subsections. for example, on the map yshnp, I've found that a basic distillery in the back is good for getting things started, but then I want to build a simple adv diesel system, but later I want an 8x adv diesel system (those are version 1, 2, and 3). for production, I found that 8 factories in a row is good. this is a good investment for my cp2 early on because I'll have a lot of time and trees to kill, and makes future expansion faster with enhanced cp production.
+
+the thing I notice with this one is when I look at the saves list after loading a save, I can't really figure out where I am. I'm thinking about adding at least the year and perhaps month.
+
 ### new haven
 
 hated it from the first time I played it. played it again with jaron the one time, and even though it was on sailor, it was still too easy and gave me a weird vibe I didn't like. it felt like I was connected to the other noobs that are looking at "such a complex game" and can't figure out what is fun about moving sand around on an unbelievably contrived map. the map is contrived, but not in a good way like crater or ysnp.
