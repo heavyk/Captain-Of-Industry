@@ -70,26 +70,28 @@ the resume is that the beach side is gonna be heavy into iron and construction p
 
 ### q- restart to see bricks mechanic
 
-I restarted the game to try out the new bricks mechanic deployed in 0.4.13. it's nice that I don't have to dump dirt anymore and can turn all my dirt into bricks. I'll save my slag and turn it into sour water later with the contract. 
+I restarted the game to try out the new bricks mechanic deployed in 0.4.13. it's nice that I don't have to dump dirt anymore and can turn all my dirt into bricks. I'll save my slag and turn it into sour water later with the contract.
 
 the plan is to setup bricks and dirt to run as a backup to the concrete system. I'm going to try and run a lot of it off of bricks allowing me to get rid of dirt a lot easier. concrete is nice though because it gets rid of slag turning them into bricks. for every iron ore smelted, half of it turns into slag, so until recycling is online a lot of extra slag is created. this is good for creating concrete, and then later little slag is output, cause scrap doesn't create slag. that's the plan so far.
 
-before I began I played withe the non-admiral settings, I used these
+I these are the map settings I decided on (difficulty admiral)
 
-(TODO picture)
+![q starting configuration](img/q-settings.png)
 
-the things I noticed is that normal elevation, the top part is at 45. this is pretty high. -25% reduced cliff heights, it's at 34 -- too easy I think. full hight I think bas 65 or 66 -- really high, and the back  part of the inner area isn't even accessible bevause of the cliff hights and the coal mine. I think this setting is close to impossible. I wanna beat this one first before trying that one yet.
+while playing with these settings, I noticed is that normal elevation, the top part is at 45. this is pretty high. -25% reduced cliff heights, it's at 34 -- too easy I think. max hight I think bas 65 or 66 -- really high, and the back part of the inner area isn't even accessible and the coal needs to be mined out to even access it. I think this setting is pretty close to impossible. I wanna beat these setting first before trying that one -- I'm not *that* ambitious :).
 
-other things I want to change from p-:
+strat changes from how I did p-:
 
-- where I make the ramp up to the next level, which I will now do diagonally up in iron mountain.
-- I set the farms more over to the right, cause once I clear the mountain to the left, I'll make two rows of farms. with 2, then 4, then 6, then 8 farms, the settlement should be able to expand to 2-3k without a problem.
-- pretty quickly on, I want to transition into corn and wheat and use then for animal feed to feed chickens
-- instead of dumping dirt into the sea, I'm going to use it to make bricks I'll accumulate slag,
+- I will make the ramp up to the next level, now do diagonally up in iron mountain.
+- I set the farms more over to the right, cause once I clear the mountain to the left, I'll have space to put in chicken farms that will feed enough that the settlement should be able to expand to 2-3k without a problem (with food saver edict, I'm actually thinking 5k+).
+- instead of dumping dirt into the sea, I'm going to use it to make bricks. I'll accumulate slag, and then trade it for sour water later
+- I'm going to try and not dump anything but rock into the ocean. I'm also going to try and dig up and consume all of the dirt too (only rock island eventually).
+- I'm going for sustainable island, so removing all resources isn't my immediate goal, but it would be cool to realise an only rock island (minus the single layer of dirt below the farms)
 
 gameplan:
-- I'm going to shave the entire middle part down first to 5 (removing the dirt), then to 2 (removing the rock and expanding into electronics 2). all dirt will be used to to create bricks, and the rock to make a pier in front of the settlement. this is going to be the strat for the entire top part as well. the goal is to take all of the dirt and turn it into bricks and just use the rock to expand the island outward
+- I'm going to first shave the entire middle part down to 5 (removing the dirt), then to 2 (removing the rock and expanding the copper smelters into electronics 2). all dirt will be used to to create bricks, and the rock to make a pier in front of the settlement. this is going to be the strat for the entire top part as well. the goal is to take all of the dirt and turn it into bricks and just use the rock to expand the island outward
 - I'll ramp up to the top and shave the entire top of the map down to 40 (from 45) using all of the dirt to create bricks.
 - I'll then use all of the extra rock to expand the whole island out laterally.
 - parts of the island in the middle will still have dirt. that will get dug out (along with all the resources) and replaced with rock.
 - final product will be a fully rock island with a massive factory.
+- I want to make at least 2 settlements (one on the left and one on the right) -- but it's possible I'll be keeping the initial one in the centre there.
