@@ -114,7 +114,7 @@ at the moment, I'm using cp1 production as my performance metric (cause it's use
 
 for example, last night I did a build, and it became pretty productive, but I ran into a hiccup where I don't have space for another copper smelter and no space for iron either. so, I'm gonna prioritise mining those out tonight and see where I get.
 
-in 69.8 I have 19479 cp1 production. which seems pretty good considering the map and difficulty, but I think I can do better. just letting the game run pretty much until 78.9 I had 21923. again, pretty good, but I think I can do better. I think I'm going to start over in 62.5 which has 16237 cp1. (I have the abandoned branch with those metrics saved somewhere if anyone wants them)
+in y69.8 I have 19479 cp1 production. which seems pretty good considering the map and difficulty, but I think I can do better. just letting the game run pretty much until y78.9 I had 21923. again, pretty good, but I think I can do better. I think I'm going to start over in y62.5 which has 16237 cp1. (I have the abandoned branch with those metrics saved somewhere if anyone wants them)
 
 ### 2023-01-01 04:21 - starting tech3
 
@@ -126,3 +126,9 @@ next things:
 - I'm mining more coal than I'm using. put an alarm and move over a digger to get rid of dirt on top of coal mine
 
 I'm thinking, actually if I'm this close to t3, then I may as well just put up with the crappy diggers and research glass instead of trading cp3 for it.
+
+I did make last night's production graph a lot smoother (though only slightly improved numbers), so I may want to improve it again tomorrow (y75-80 are kinda rough cause I had bricks/iron production problems). we'll see.
+
+at any rate, I'm feeling really good about this run because I think I'm ~50y years faster getting tech3. I also still have 1/3 of crude oil reserve left too. it'll go fast as soon as I upgrade trucks.
+
+(I think I'm also going to move this log over to a separate file tomorrow as well, clean it up a bit too). btw, I'm starting to keep logs of a lot more things now because I'm having such a difficult time remembering things, and I've found that writing it down improves  my recollection of it and also it's really helpful to be able to look back and search it.
