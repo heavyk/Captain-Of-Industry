@@ -104,7 +104,7 @@ gameplan:
 
 ### 2022-12-31 18:00 - initial thoughts on new bricks mechanic
 
-I really like it. in previous playthroughs, I didn't really know what to do with all of the dirt, so I threw it into the sea. the bricks maker requires quite a lot of maintenance (twice as much as cement) and makes half/quarter/eighth as many bricks for input (6 vs 12/24/48) so it's quite inefficient, and somewhat expensive to create, but I *really like* not having to transport the bricks all the way across the map. I'm actually thinking of creating little bricks factories to reduce the transport, because it's easy to get water and coal, and turning 12 dirt into 6 bricks nearly halves (minus coal) the amount of materials needed to be transported by the trucks.
+I really like it. in previous playthroughs, I didn't really know what to do with all of the dirt, so I threw it into the sea. the bricks maker requires quite a lot of maintenance (twice as much as cement) and makes half/quarter/eighth as many bricks for input (6 vs 12/24/48) so it's quite inefficient, and somewhat expensive to create, but I *really like* not having to transport the dirt all the way across the map to throw it in the sea. I'm even thinking of creating little bricks factories on to reduce the transport, because it's easy to get water and coal, and turning 12 dirt into 6 bricks nearly halves (minus coal) the amount of materials needed to be transported by the trucks.
 
 ### 2022-12-31 18:21 - performance metrics
 
@@ -114,4 +114,15 @@ at the moment, I'm using cp1 production as my performance metric (cause it's use
 
 for example, last night I did a build, and it became pretty productive, but I ran into a hiccup where I don't have space for another copper smelter and no space for iron either. so, I'm gonna prioritise mining those out tonight and see where I get.
 
-in 69.8 I have 19479 cp1 production. which seems pretty good considering the map and difficulty, but I think I can do better. just letting the game run pretty much until 78.9 I had 21923. again, pretty good, but I think I can do better. I think I'm going to start over in 62.5 which has 16237 cp1. (I have the abandoned branch with those metrics saved somewhere if you want them)
+in 69.8 I have 19479 cp1 production. which seems pretty good considering the map and difficulty, but I think I can do better. just letting the game run pretty much until 78.9 I had 21923. again, pretty good, but I think I can do better. I think I'm going to start over in 62.5 which has 16237 cp1. (I have the abandoned branch with those metrics saved somewhere if anyone wants them)
+
+### 2023-01-01 04:21 - starting tech3
+
+next things:
+- sulfur to slag
+- upgrade to assumbler 2 to save power and pops
+- add another steel smelter (when the iron mountain is out of way)
+- add second air separator and use nitrogen to make science2
+- I'm mining more coal than I'm using. put an alarm and move over a digger to get rid of dirt on top of coal mine
+
+I'm thinking, actually if I'm this close to t3, then I may as well just put up with the crappy diggers and research glass instead of trading cp3 for it.
