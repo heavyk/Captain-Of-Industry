@@ -4,43 +4,49 @@ I intend to put various captain of the industry things related. the game has ins
 
 ### save format
 
-I'm still experimenting with the format for save files. I'm between two designs. presently, I think I'm working ton the inferior one.
+I'm still experimenting with the format for save files. I'm between two designs still. most of the saves either don't have a format or are useing one of these.
 
-#### map- x.y.z-n - feature
+#### code- x.y.z-n - feature
 
 `x` is the major version of the map. I think of the map as a build order, so I kinda have a flow in my mind of things that need to be accomplished. each `y` is a major version in that system, and `x` are just incremental saves along the way which may be only a few months apart. `n` features are small changes that were made to the save file without unpausing the game (like forgot to turn something on)
 
-#### map- subsystems - x.y.z-n
+#### code- subsystems - x.y.z-n
 
 in this one, I for the map, I have different subsystems, which have sort of like milestones to them. I set out to build certain objectives in the form of subsections. for example, on the map yshnp, I've found that a basic distillery in the back is good for getting things started, but then I want to build a simple adv diesel system, but later I want an 8x adv diesel system (those are version 1, 2, and 3). for production, I found that 8 factories in a row is good. this is a good investment for my cp2 early on because I'll have a lot of time and trees to kill, and makes future expansion faster with enhanced cp production.
 
 the thing I notice with this one is when I look at the saves list after loading a save, I can't really figure out where I am. I'm thinking about adding at least the year and perhaps month.
 
-### new haven
+#### code- yyyy.m feature
+
+this is the format I'm using for the latest incarnation of q- I find it a lot easier to see what save I'm doing, going by year. I do want to incorporate a branch into it, so probably I'll make all of them mainline, then branch off with a different code.
+
+---
+
+## new haven
 
 hated it from the first time I played it. played it again with jaron the one time, and even though it was on sailor, it was still too easy and gave me a weird vibe I didn't like. it felt like I was connected to the other noobs that are looking at "such a complex game" and can't figure out what is fun about moving sand around on an unbelievably contrived map. the map is contrived, but not in a good way like crater or ysnp.
 
-### circular
+## circular
 
 I can't remember, but I think it was too easy so I ditched it.
 
-### crater
+## crater
 
 I loved this map, but I can't tell it to go at a height *above the terrain* so it's not like the belt/pipe would follow the terrain (like a roller-coaster). as such, it was impossible to do ramps. when ramps and building on s slope is reworked, I really want to revisit this map. it gives me such a good vibe and I just love tunneling down deep into a coal mine to get to a farming sort of flatland. in my imagination, I picture the piace a little more jungly, so I'm like passing this cool lookout point and then descending down this coal mine into the lush gardens (greenhouse 2) downstairs.
 
 I think this is my favourite map for layout and difficulty because of the difficult placement andr long distance between iron/coal and copper.
 
-### c-
+## c-
 
 my first attempt at ysnp. I got pretty far and am pretty stable. things are pretty fine and I can win the map if I take it a bit slower. I have hundreds of years on the crude deposits to get the vp2 for crude setup on the beach. I'll probably take the whole thing down to 1 and then lay a layer of rock so it looks nice and has sharp ocean edges.
 
 in this one (my 1-2nd attempt), I mainly didn't do a whole lot of loading. I played through trying to save and load more. I really like how it is when I just go through and play it. I'm really starting to like just freestyling it, not really planning too much and just going for it. this is the play style that I'll eventually adopt. the replay mode is good for practise, but it's a lot of fun to just go for hours without saving or loading. it's kinda like freedom. my goal is to get a build order such that I can kinda just execute it. the game isn't really ready for this style of play yet, because some of the more common tasks are still quite tedius
 
-### p-
+## p-
 
 my second attempt at ysnp (or is it third). this is about the time that I wanted to get a more solid early game technique. I played this map on -20% forest and admiral difficulty. the forest was actually to make it easier. at normal bush, it takes FOREVER to give the inner section there a brazillian. everyone loves a shaved map. so, I reduce the forest to clear up space real quickly. it's pretty easy to import wood from the sawmill.
 
-### p- (named the same until I sort them)
+## p- (named the same until I sort them)
 
 this is the one I'm playing now. it's probably at least the 4th attempt. I wanted to focus on my perhformance and technique. in this one and in crater, I would go along saving (not frequently) and just see how far I could get before it fell apart. this one, I"m trying to optimise my CP prodruction, because a build needs to flow, and I can't have large gaps where I can't build something cause I don't have parts. this means I work on more things at once, doing smaller incremental improvements.
 
@@ -68,7 +74,7 @@ the resume is that the beach side is gonna be heavy into iron and construction p
 - the rest of the island will run off of contracts importing all of the things that it needs, but I intend to keep this section around (paused) with mining reserves to be able to bail out if contracts don't work or something.
   - in reality, this a fanciful idea because I'll obviously reload the save, instead of activate an emergency failsafe. it's fun for me to play the game as if there are additional stresses, as if this was the production for a larger military operation. as such, in such "real-life" situations, a loading isn't possible so I have to have these back procedures. also when I played without loading so much, I had techniques to bail myself out of situations.
 
-### q- restart to see bricks mechanic
+## q- restart to see bricks mechanic
 
 I restarted the game to try out the new bricks mechanic deployed in 0.4.13. it's nice that I don't have to dump dirt anymore and can turn all my dirt into bricks. I'll save my slag and turn it into sour water later with the contract.
 
@@ -95,3 +101,17 @@ gameplan:
 - parts of the island in the middle will still have dirt. that will get dug out (along with all the resources) and replaced with rock.
 - final product will be a fully rock island with a massive factory.
 - I want to make at least 2 settlements (one on the left and one on the right) -- but it's possible I'll be keeping the initial one in the centre there.
+
+### 2022-12-31 18:00 - initial thoughts on new bricks mechanic
+
+I really like it. in previous playthroughs, I didn't really know what to do with all of the dirt, so I threw it into the sea. the bricks maker requires quite a lot of maintenance (twice as much as cement) and makes half/quarter/eighth as many bricks for input (6 vs 12/24/48) so it's quite inefficient, and somewhat expensive to create, but I *really like* not having to transport the bricks all the way across the map. I'm actually thinking of creating little bricks factories to reduce the transport, because it's easy to get water and coal, and turning 12 dirt into 6 bricks nearly halves (minus coal) the amount of materials needed to be transported by the trucks.
+
+### 2022-12-31 18:21 - performance metrics
+
+the other day, I was thinking about taking my save files and making them into a website where other people can upload their saves, and then the save file is parsed to extract some data from it to show metrics. (kinda in speedrunning fashion)
+
+at the moment, I'm using cp1 production as my performance metric (cause it's used for all construction). I want it to be constantly positive (ie how well the build flows), and have the biggest numbers (ie how efficient it is). for the website I want to display these numbers visually and comparatively to other saves -- so I'll take the statistics recorded in the save file and use them to calculate efficient build orders, and allow others to upload their saves and improve on existing ones. as more alternate routes get taken, I'd also like to show the saves in a network graph of branches with their efficiency.
+
+for example, last night I did a build, and it became pretty productive, but I ran into a hiccup where I don't have space for another copper smelter and no space for iron either. so, I'm gonna prioritise mining those out tonight and see where I get.
+
+in 69.8 I have 19479 cp1 production. which seems pretty good considering the map and difficulty, but I think I can do better. just letting the game run pretty much until 78.9 I had 21923. again, pretty good, but I think I can do better. I think I'm going to start over in 62.5 which has 16237 cp1. (I have the abandoned branch with those metrics saved somewhere if you want them)
