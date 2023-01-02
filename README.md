@@ -160,4 +160,8 @@ I've almost got another steel smelter, which means I can start building the lvd.
 
 I went extra long before quitting here. I'm going to restart this one, but even with such a disaster, y89.5 and production is 32891. I'm feeling really confident that I can get fertilizer and large vehicles building in prolly by 85 or even sooner. we'll see.
 
+### 2023-01-02 12:48 - omg what a disaster
+
+I think I'll start over from y74.2-1. let's see how it goes.
+
 ### mechanic of the sequence
