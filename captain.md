@@ -1,6 +1,18 @@
 # captain
 
+## noticed
 
+### bugs
+
+- copying preferences from retaining wall to another doesn't copy priority
+
+### features
+
+- ability to expand mining areas by clicking and draging them (horizontal and diagonals).
+- ability to set speed of a belt. sometimes I want to reduce the speed of a belt, to limit loopback output.
+- put balancers and sorters at altitude > 0
+- ability to put pillars above balancers and sorters.
+  - in fact, as a performance improvement, it'd be nice to not render pillars where belts are stacked (they already look like they're on top of each other )
 
 ## reported
 

@@ -149,4 +149,11 @@ after connection is made, now you have a timeline from start to finish, and now 
 
 break time. man the scorpions are insane.
 
+### 2023-01-02 01:29 - worry
+
+when I say worry, I mean thinking about the things that could go wrong. in fact, I don't think about what could go wrong at all. instead, I'm only tryiny to keep everything stable meanwhile building the next thing that I want. the only forward thinking that I have really is when I'm about to move the diggers, because I'll want to be clearing the next space for my next addition to the factory.
+
+this time, I end now evaluating my progress by simply feeling like I'm definitely feeling good about how things are progressing.
+I've almost got another steel smelter, which means I can start building the lvd. once I have medium diggers, it's a complete gamechanger, as now I'll be able to mine the iron ramp easily and clear out the mountains on the left side and use that new space next to the tech. making the space on the beach will be really good so that I can start on glass production. flatening the beach will put in a cargo depot which will do the coal for cement contract. keep expanding the beach and putting in rows of coal power plants. I have TONS of limestone to mine and with the contract basically unimited power and cement...
+
 ### mechanic of the sequence
