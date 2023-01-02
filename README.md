@@ -132,3 +132,21 @@ I did make last night's production graph a lot smoother (though only slightly im
 at any rate, I'm feeling really good about this run because I think I'm ~50y years faster getting tech3. I also still have 1/3 of crude oil reserve left too. it'll go fast as soon as I upgrade trucks.
 
 (I think I'm also going to move this log over to a separate file tomorrow as well, clean it up a bit too). btw, I'm starting to keep logs of a lot more things now because I'm having such a difficult time remembering things, and I've found that writing it down improves  my recollection of it and also it's really helpful to be able to look back and search it.
+
+### 2023-01-01 17:14 - I am so stoned
+
+I'm just recording this, because I'll have to look at it tomorrow and I think around y75-76 I got *really stoned* and I don't think that it's going quite as smoothely as it normally does. I don't normally experience this, which is why I'm stopping -- is I'm starting to worry. I never worry when I'm playing, so I know it's a problem. I'm clearly picking up interference from elsewhere -- what's important though is that I recognise it.
+
+this game is extremely mental in that I notice that even a little bit of tiredness really affects me, which is why I'm starting to redo (now that I'm looking at things as a sequence) the last few years. what I mean is, when I wake up in the morning, my mind is fresh so I see the game usually a lot clearer than when I'm shutting down the game at 2-4am. I often times notice a whole lot of things I could do better and so what I do is redo the last few years -- just sorta start over.
+
+there's a tremendous value to throwing things away. I learned this from andreas. he said he had a friend that would write a prototype and then just throw away the prototype and start over. I recognised this as valuable when I was programming myself, because I learned so much from the next time that I do it -- the rewrite. the thing is, you don't want to rewrite all sections, but I noticed it was a good idea to just start over and write all the code again manually. it's a bit more effort, but for example when I would watch dominic (tarr) or substack (james haliday?) they would start over with a nodejs server ... you know starting the file from empty, importing net, fs, etc. and then just starting there to show it off. they'd done so many presentations, the basic setup they figured out really well.
+
+anyway, well, I take the same approach to this game. I like to think of my factories as accumulating technical debt with all of the pipe spaghetti. there are always more optimal ways to lay things out and stuff. there are also improvements that I can do on the timeline.
+
+the timeline is like this lightning bolt passing through a medium. it tries in one way, goes a long enough distance to encounter enough resistance to know it doesn't want to go forward any more, so it goes back a ways and retries. every night, I try to go back and redo a few things here and there, and then during the day, I often times restart after a fail moment or I want to imporove it. each of creates a different branch. the more branches that one takes from a point, they spread out, in incompoatibility/difference to each other (more difference, more distance) in kinda a cone shape. the end result is what it looks like when lightning is passing through a medium. it's finding its least resistant path to the destination. I've always seen this as the leader.
+
+after connection is made, now you have a timeline from start to finish, and now it's possible to go back on the timeline and redo the same things a little bit differently, creating even more branches. the more branches that are created, eventually this is a straight line -- a sequency of operations to get from one point to another point.
+
+break time. man the scorpions are insane.
+
+### mechanic of the sequence
