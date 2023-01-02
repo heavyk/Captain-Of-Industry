@@ -156,4 +156,8 @@ when I say worry, I mean thinking about the things that could go wrong. in fact,
 this time, I end now evaluating my progress by simply feeling like I'm definitely feeling good about how things are progressing.
 I've almost got another steel smelter, which means I can start building the lvd. once I have medium diggers, it's a complete gamechanger, as now I'll be able to mine the iron ramp easily and clear out the mountains on the left side and use that new space next to the tech. making the space on the beach will be really good so that I can start on glass production. flatening the beach will put in a cargo depot which will do the coal for cement contract. keep expanding the beach and putting in rows of coal power plants. I have TONS of limestone to mine and with the contract basically unimited power and cement...
 
+### 2023-01-02 04:06 - looking good
+
+I went extra long before quitting here. I'm going to restart this one, but even with such a disaster, y89.5 and production is 32891. I'm feeling really confident that I can get fertilizer and large vehicles building in prolly by 85 or even sooner. we'll see.
+
 ### mechanic of the sequence
