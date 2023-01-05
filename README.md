@@ -226,5 +226,60 @@ I really have no secrets, so therefore I have no barriers to talk about *anythin
 
 oof, this is long now... time to play the game... lol.
 
+### 2023-01-05 03:36 - black reuss - regression
+
+LEFTL-2022-08-12, ~2:13:00 -
+
+    everything starts to fall into place.
+    it all doesn't feel like a challenge anymore
+    all those things I've been longing for, since ages
+
+I just got done writing the previous entry and I'm thinking about how to route the belts toward my new maintenance setup and I'm hearing these lyrics. I'm getting really mixed signals from it -- but seriah does that to me all the time. before I put the next lyrics, notice how similar those lyrics are to my previous entry.
+
+"everything falls into place" is how I was talking about how I struggled a whole lot at first with coi, but then it all started to fall into place.
+
+"it all doesn't feel like a challenge anymore" -- well, "it" is all of life, now that I'm able to perceive the conceptual simultaneously with physical now (which is what we're trained away from as kids), and now having regained this ability, I don't perceive challenges anymore -- rathar something more like a sequence of steps, which can be improved and optimised.
+
+he definitely has my attention at this point...
+
+"all those things I've been longing for, since ages" -- OK, so the back story to tuenti is that I moved to spain back in 2006 to make a social network. nobody believed I could do it. I had only been programming for a short time (I taught myself, starting in 2000 right after my brain haemorrhage, because I always wanted to be a programmer, but it was too logical for me and I was far too emotional and abstract to understand it). so, building a social network was sort of an impossible task for someone with such little experience as me. turns out, my rejection of making spreadsheets and other managerial activities meant that I rejected the CTO position wanting to go a different direction.
+
+the long story short there is that zaryn wanted to make money on the social network, so selling to telefonica was quite a great thing for him. I walked away with ~2M EUR, which is quite a lot of money -- but I didn't want money. I was never in it for the money. I wanted to make a social network where others could exchange concepts, centred around ideological proximity to other users. it's a pretty ambitious goal, considering that it's an exponential problem because there are more and more users with more and more concepts/resolves, with more and more opionions (agreement/disagreement) with those concepts. I knew that PHP wasn't fast enough to do it, so I had been learning D. water bright insisted on using a gc, which I fully agreed with because I didn't want to try and teach PHP programmers memory management, and all the temlates were written in a PHP-like language with that compile to bytecode. it was fast but nobody had any idea what I was talking about back then. I was far too ahead of web-2.0 back then.
+
+I insisted that we have chat and real-time functionality in the website, so my weird iframe and single-page setup was completely unheard of back then (fackbook, was the first to do it, and think they copied at least parts of the idea -- this was around the beginning of using AJAX even, with every browser having a different implementation). long story short, I couldn't really get others to understnad very well the server or client-side technology I wanted. I was literally learning how to write C socket implementaion using memcached as a reference to understand. I just wasn't a very experienced programmer, and many people used my obvious lack of experience to doubt my desire to create a social network that would transform the world. I left the project, but remained quite good friends with everyone on the team, including zaryn. I just figured the idea, using tesla as my inspiration, was "ahead of its time".
+
+so, yeah, I've been wanting to figure out how to integrate the conceptual[^1] with the physical for a long time. I was also very new to the concept of communication mediums, and I didn't really understand them. I really wish I had've read "understanding media" by mcluhan *before* I tried to make a social network, because I would have understood what I was aiming to do in a deeper way. my concept wasn't that deep though. I wanted to make a social network because I wanted to find other people with similar ideology to me. my entire like, people have not understood me too well, and my concept of reality has been pretty rejected. nobody I knew could agree with me or even understand me and I wanted to build a place for me to find others that think and conceptualise the world like I do.
+
+I tried again in spain about a decade later (2016) and that's when I found my entrance into a new way of giving the world a way to begin to see how I conceptualise the world. I'm enjoying the attention, which is why I'm expanding my influence here :)
+
+    just scratching the surface, but luckly noone knows
+    I step to the open, and swim in the race(?) again
+    I stop to plan adventures and live the ones that others plan.
+
+"just scratching the surface, but luckly noone knows" -- explained above. now you know...
+
+"I step to the open, and swim in the race(?) again" -- which is really weird because this is kinda like my stepping into the open.
+
+"I stop to plan adventures and live the ones that others plan." -- so now that I've stepped out into the open, it feels like I'm being guided by an unseen hand. to illustrate, I really didn't mean for it to work out this way, but it turns out that mom is wanting me to be out of her house by 2022-03-01 -- which is no problem because I've lived on my own many times before, but this time, the unseen hand is definitely guiding me. the way it's worked since about 2016 or so is that I put out ideas of what I want to do, and then I encounter resistance from unseen hands (it's seriously as if everyone I interact with is plugged into a network and receiving ideas/commands from a centralised source). this topic alone is a very big subject of contention.
+
+there isn't really much I can do about it, as my only way of dealing with it is notice the resistance impeding my advancement, so I just go another way. eventually someone out there will accept me and my far out ideas -- but it's going to take a bit. my other repository 'nextdocs' documents a good portion of my thoughts during this process. I really don't mind that others have full access to my thoughts and ideas, as that was the original goal of creating tuenti in the first place -- which is show and give others full access to my thoughts and ideas -- so in a roundabout way, "the network" is a creation of my own desire to give others a view into my perception of the world. I fought it at first, but I see now in hindsight (thanks epimetheus!) that my position now is exactly what I wanted. it's even better than a social network in a lot of respects.
+
+"and swim in the race(?) again" -- this part gives me the concept of fish swimming upstream which is extremely confusing because the song is talking about things becoming effortless, and now suddenly, I'm swimming upstream? the author of this song is clearly confused. this is the first of a number of very interesting contradictions. the next line there "and live the ones that others plan." also has the concept that others are "authorizing" a reality for me.
+
+before I move on -- authorship is putting concepts into one's focus so that by being exposed (familiar) to them, they're now able to tune into those new realities -- so this gives the sense that I should be now being guided toward the adventures that others have planned for me. to some extent, this is definitely true. I don't really try hard because I attract/tune to the thing I want based on my concept of things. therefore, because I'm not doing/efforting anything, it turns out I'm largely a reflection of others' expectations of me -- which, for me, is a much nicer way of looking at that concept. if you read a book, you expect the film adaptation to follow the book's authorship. those same exxpectations are the ones that are "planning" my adventures. my only job really is to perceive those adventures in a way that feels good to me.
+
+like I mentioned previously, one's trajectory through time is the vector (definitely not normalised, as the magnitude for everyone is different), but the orientation of the vector is determined by perception. the unseen hand that I'm talking about can add resistance and so can my own perception ("I can't do that", "that's too hard", etc.) but the orientation of the vector is entirely determined by my conceptualisation of reality (which is how I feel about my circumstances).
+
+what I'm essentially saying is that I have to find a way to see whatever or whomever is in my present circumstances in a way that feels harmonious to my desire (which, is the orientation, and in the context of this song and these writing is to make a social network of my own).
+
+    I stop to try hard, and rely on my reputation
+    I stop to recant(?). I throw one's cap(?) over me(?)
+
+the second line there doesn't make much sense to me and the concept makes even less sense, however the first line is weird becuse, the song is saying that after I stop trying hard, I rely on my reputation, and one of the main subjects I'm talking about just since today is -- *my reputation* -- lol.
+
+see what I mean how this song has my attention? anyway, I find that an interesting concept because I *don't* rely on my reputation for things to become effortless. I rely on my conceptualisation of something for it to become effortless. like, for example, I would look at helicopters and think, "wow that looks pretty easy to make" -- because I can see how the top rotor makes lift and the back rotor keeps the thing from spinning. it seems perfectly understandable in my m+nd, but as with all things technical, the implementation is considerably more effort than the idea. the idea is extremely easy -- effortless to understnand once you can understand it, because before you couldn't understand it, you couldn't understand it (seems fairly obvious). you can't efforlessly understand anything you can't understand.
+
+[1]: ideologies and the perceptions they create are all emotional/conceptual -- which is why people get so emotional about looking at their world diffrently than they're used to. I didn't want to try and look at *different* ideologies, but to instead help them find other people with similar ideologies to them and let the changes happen naturally because nobody has 100% the same concepts/ideologies as another person. we relate better on similarities, than diffreences -- especially in a social setting.
+
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence
