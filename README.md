@@ -260,9 +260,9 @@ I tried again in spain about a decade later (2016) and that's when I found my en
 
 "I step to the open, and swim in the race(?) again" -- which is really weird because this is kinda like my stepping into the open.
 
-"I stop to plan adventures and live the ones that others plan." -- so now that I've stepped out into the open, it feels like I'm being guided by an unseen hand. to illustrate, I really didn't mean for it to work out this way, but it turns out that mom is wanting me to be out of her house by 2022-03-01 -- which is no problem because I've lived on my own many times before, but this time, the unseen hand is definitely guiding me. the way it's worked since about 2016 or so is that I put out ideas of what I want to do, and then I encounter resistance from unseen hands (it's seriously as if everyone I interact with is plugged into a network and receiving ideas/commands from a centralised source). this topic alone is a very big subject of contention.
+"I stop to plan adventures and live the ones that others plan." -- so now that I've stepped out into the open, it feels like I'm being guided by an unseen hand. to illustrate, I really didn't mean for it to work out this way, but it turns out that mom is wanting me to be out of her house[^3] by 2022-03-01 -- which is no problem because I've lived on my own many times before, but this time, the unseen hand is definitely guiding me. the way it's worked since about 2016 or so is that I put out ideas of what I want to do, and then I encounter resistance from unseen hands (it's seriously as if everyone I interact with is plugged into a network and receiving ideas/commands from a centralised source) -- at which point, I can fight the resistance (decreasing my magnitude) or I can adjust my orientation (and keep the magnitude the same or more because I'm perceiving now with less resistance). this topic of who or what is that unseen hand is pretty big subject of contention. mom and others tell me it doesn't exist, but I say it's real. I stopped caring about what they say and talk about it openly though because it's real for me. instead of trying to get others to validate me (acceptance), now I just go my own way, and I'm completely open about everything I do (vulnerability), and I don't meausure my results (lust for results/success), instead valuing not physical success but the agility of perception as the real success.
 
-there isn't really much I can do about it, as my only way of dealing with it is notice the resistance impeding my advancement, so I just go another way. eventually someone out there will accept me and my far out ideas -- but it's going to take a bit. my other repository 'nextdocs' documents a good portion of my thoughts during this process. I really don't mind that others have full access to my thoughts and ideas, as that was the original goal of creating tuenti in the first place -- which is show and give others full access to my thoughts and ideas -- so in a roundabout way, "the network" is a creation of my own desire to give others a view into my perception of the world. I fought it at first, but I see now in hindsight (thanks epimetheus!) that my position now is exactly what I wanted. it's even better than a social network in a lot of respects.
+there isn't really much I can do about the unseen hand, as my only way of dealing with it is notice the resistance impeding my advancement, so I just go another way. eventually someone out there will accept me and my far out ideas -- but it's going to take a bit. my other repository 'nextdocs' documents a good portion of my thoughts during this process. I really don't mind that others have full access to my thoughts and ideas, as that was the original goal of creating tuenti in the first place -- which is show and give others full access to my thoughts and ideas -- so in a roundabout way, "the network" is a creation of my own desire to give others a view into my perception of the world. I fought it at first, but I see now in hindsight (thanks epimetheus!) that my position now is exactly what I wanted. it's even better than a social network in a lot of respects.
 
 "and swim in the race(?) again" -- this part gives me the concept of fish swimming upstream which is extremely confusing because the song is talking about things becoming effortless, and now suddenly, I'm swimming upstream? the author of this song is clearly confused. this is the first of a number of very interesting contradictions. the next line there "and live the ones that others plan." also has the concept that others are "authorizing" a reality for me.
 
@@ -313,7 +313,7 @@ what would be really nice is to have some logic to do what my brain does, which 
 if (storage['all'].cp1 > storage['all'].cp2) { .. }
 ```
 
-but the thing is that's extremely uncomfortable to reason about and write. my brain sees a spreadsheet now. I have a column of global storages. I shift+click the values for cp1,cp2,cp3 and use the min function to select the storage with the least and then perform the action (for each of the three cases), the actions that I would put on the balancers... it is afterall, what I'm already doing in the game, but I want he game to repeat the actions like a good employee would. this game assumes I'm running an entire factory all alone and without any others helping me.
+but the thing is that's extremely uncomfortable to reason about and write. my brain sees a spreadsheet[^2] now. I have a column of global storages. I shift+click the values for cp1,cp2,cp3 and use the min function to select the storage with the least and then perform the action (for each of the three cases), the actions that I would put on the balancers... it is afterall, what I'm already doing in the game, but I want he game to repeat the actions like a good employee would. this game assumes I'm running an entire factory all alone and without any others helping me.
 
 upon that, I'd like to relate a story... after I take a break. my goodness, I have a lot to say. this game is like breaking years and years of slience because I didn't have an effective medium to express my ideas. coi is a game that is pretty close to a perfect reflection of how I conceptualised a project/factory way back in 2006. I've come a long ways in my studies of humans and how we communicate. this game has so much to offer because it's kind of like a microcosm of materialistic/reductionist perception. once I wrapped my head around this game, I'm confident in saying that I understand industry and the american (materialistic) way.
 
@@ -331,7 +331,49 @@ a sequence of operations is exactly what a play or a choreographed dance routine
 
 good night. song now is "legions of death -- zombie apocalypse -- run away!" lol.
 
-[1]: ideologies and the perceptions they create are all emotional/conceptual -- which is why people get so emotional about looking at their world diffrently than they're used to. I didn't want to try and look at *different* ideologies, but to instead help them find other people with similar ideologies to them and let the changes happen naturally because nobody has 100% the same concepts/ideologies as another person. we relate better on similarities, than diffreences -- especially in a social setting.
+[1]: ideologies and the perceptions they create are all emotional/conceptual -- which is why people get so emotional about looking at their world diffrently than they're used to. I didn't want to get people to try and look at *different* ideologies, but to instead help them find other people with similar ideologies and let the changes happen naturally because nobody has 100% the same concepts/ideologies as another person and inevitably we rub off on those we think are of similar mind (or same values). we relate better on similarities, than diffreences -- especially in a social setting.
+
+[2]: sorta. in my process of trying to make that spreadsheet, I found some things which are easy to express in js/dom like lists of data elements (like machines) are impossible. in fact, I can't even have something a database has: a view, which expresses the denormalised form of data in columns. my concept of how a spreadsheet would work is more free-flowing (kinda like VB6) and not restricted to an N by N grid. each view (or whatever) has inputs and putputs to it exactly like the coi machines do. like, when I render a user with the friends list view, I'm just passing it data like a machine could input a view item and data item and then output a rendered view item. the view could be anything (kinda abstract, so think of it like code), and then the data could be anything that turns into (coerced) into whatever the view's interface requires. now, the view (or 3d model) is modified by the data, so for example a .1 could put a green progressbar, but a .9 could put a red progressbar. the data affects the view according to some arbitrary set of rules (I just got rickrolled, btw).
+
+[3]: we'll see how legit such a claim actually is. I'm sorta convinced that it's just another front. I don't believe that they'll actually move me on to another adventure until my present circumstances are more bad than the new adventure appears to them. you can imagine how much of a problem it would be for me to be talking with people in person while clearly this mentally deranged.
+
+### 2023-01-05 07:22 - you look like you need a saviour
+
+as I was rereading the above entry, a band "disguised as dinosaurs" plays a song saying "you look like you need a saviour". I noted it, but then he plays another song (3:33:18) about velociraptors:
+
+    raptors run, raptors scream,
+    raptors are not friends of me
+
+    God makes dinosaur
+    God makes makes man
+
+    we'll launch you just a clever little girl
+    down two million lines of code
+
+    waa lalaaa wa laleee
+    I'm screaming chunk of meat
+
+    God destroys dinosaurs
+    man destroys God
+
+    we'll launch you just a clever little girl
+    down two million lines of code
+
+    men creates dinosaurs,
+    dinosaurs eat man
+
+    velociraptor in the shed
+    velociratpor in my head
+
+tellin you man, seriah blows my mind and I'm not sure if he does it on purpose (though it seems to me that he's aware of the symbols once noticed, it feels like his attraction of them by concept/feeling is a good example of what I'm trying to describe). because I'm capabgle of receiving the concepts, it's easy for me to share the same frequency space as him mentally and so therefore we enoucounter eachother on a similarly vibrating timeline.
+
+let's break this one down here. keep in mind that I see spectrums now, not binaries (we don't want to be binary @[youtube](https://www.youtube.com/watch?v=esjQsOTJY38)) so all of this good and evil (coming up in the next song) and stuff is not somethming that I see anymore. I see the understanding though, so here we go...
+
+disguised as dinosaurs are singing two notable songs: "I don't ever want to give you up, let you down, run around, or hurt you" -- which is entirely impossible because I can't control if someone thinks I let them down or hurt them, I have no control over other's perception. if I do those things (run around or hurt you), then I'm removed from the the good list and put on the bad list. well, I don't want to be binary, so let's not look at good/bad good/evil... let's look to the knowledge of what the tree of life has in it. life is a spectrum and we draw the borders with our knowledge (which is a feeling, so concepts). we define the concepts, and so we're responsible for creating good and evil with our own perception. don't shift the blame or point fingers...
+
+next, they played a song, "you look like you need a saviour" -- uhhh, no thanks. saviours have a top-down approach to them. they look around and notice everyone and everything that is "not good enough" (as in unsuitable, dying, going extinct, etc.) and then try to save it. the dinosaurs need a saviour, not I. again don't shift the blame or point fingers. the dinosaurs are noticing the reflection of theirselves and then trying to wash theirselves before calling for help (sounds like dependence to me... @[youtube](https://www.youtube.com/watch?v=OIpU7tA2X78)).
+
+now, the velociraptors song are creations by "God" and "God" destroyed the dinosaurs (and all megafauna)
 
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence
