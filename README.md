@@ -279,6 +279,58 @@ the second line there doesn't make much sense to me and the concept makes even l
 
 see what I mean how this song has my attention? anyway, I find that an interesting concept because I *don't* rely on my reputation for things to become effortless. I rely on my conceptualisation of something for it to become effortless. like, for example, I would look at helicopters and think, "wow that looks pretty easy to make" -- because I can see how the top rotor makes lift and the back rotor keeps the thing from spinning. it seems perfectly understandable in my m+nd, but as with all things technical, the implementation is considerably more effort than the idea. the idea is extremely easy -- effortless to understnand once you can understand it, because before you couldn't understand it, you couldn't understand it (seems fairly obvious). you can't efforlessly understand anything you can't understand.
 
+    instead of shaping the walls of truth, I wear a false crown
+    relying on teal(?) things, even the sense of contentment
+    creating a hollow, a wall to my heart and core
+    fill out the black hole again
+    when regression becomes aggression
+
+    (repeats)
+    becomes regression of aggression
+    becomes aggression of regression
+
+"instead of shaping the walls of truth, I wear a false crown" -- I don't think that I do that at all. my policy is one of peter after his transformation: "he's a straight-shooter with upper-management written all over him". I would say that nearly all upper management in places I've been are all wearing false crowns -- because, especially in my case, I often understand the thing better than the guy telling me what to do. I do stand for truth, but that's not my goal. truth doesn't affect one's orientation; emetion/conceptualisation/perception does. truth can affect magnitude, but only as much as my perception allows it. truth is perceived as absolute, but perception is always relative. I'm not interested in anthing absolute, which usually wears a crown of some kind of authority.
+
+I believe that one gains a sense of their surroundings by contiually expanding the concept that it has of itself and its environmet. until I *actually* see from the perspective of the universe, all things are relative -- and even when I do gain the perspective of the universe, I will then become relative to other things in a new environment/medium. it's impossible to avoid your relativity to something else, as it's impossible for there to be only ONE anything, because that one thing would have to be finite and this is clearly not the case of the universe we're in. our unverse is expanding, and so even a hypothetical "God" would have to be expanding as well.
+
+that line is saying, "don't expand (or modify) the walls of "truth", and instead become a false authority, by being authored/planned by others... complete nonsense.
+
+I'm not sure what "teal things" are. bing didn't help. google brought me to some really strange videos with acapella singing and not understandable (to me) images. the concept that I get from the song is something closer to frivelous or inconsequencial things. judging my the song title "regression", this appears to be a howto guide to going to regression -- so it's a sort of list of what *not* to do.
+
+---
+
+so here's the part that's so confusing conceptually to me-- btw, this is the 2nd-3rd time I've heard it, and the first time it sent me into a long contemplation about relying on my reputation -- which is what I thought I was going to write about 4hrs ago... lol.
+
+anyway, what's confusing conceptually to me about this song, is it appears to be all of the things one should *not* be doing, because then it becomes aggression and regression. I identify with aggression though, as I generally try to meet my problems head-on at this point. when I was in tuenti, one of the things that I did not do well, is communicate, which is a massive irony working for a communications platform, wanting to create a system that would help others to relate to eachother easier *through communication*. it's been my effort since then, to be as completely open and transparent as possible.
+
+I've seen time and again that poor communication destroys relationships and starts wars. the last thing I want to do is to try and do anything without complete transparency to others with continually improving (cause best is impossible) communication amongst us. those ones that wear the false crowns talk about "grassroots movements" and how we need to have them, knowing full well that grassroots movements all happen as soon as it becomes easy for ordinary joe to communicate effectively with joe ordinary. what I maen is all things of substance start from the bottom and work their way up (grassroots movements). all crowns (false or otherwise) start from the top and flow communications downward on a "need to know basis".
+
+this game is a perfect example of it. right now, all of the machines do not have a concept of one another. there's no network or code which will allow them to begin moving in unison (like a dance, which is also syntax and communication). one of the features that I've been thinking about for this game is how would I begin to make it so that the machines can begin to function as a whole. for example, take a look at the core in q-; what I've built are 3 boxes of cp1, cp2, and cp3. the way I setup the belts (stollen from JD) is to put a loopback belt, so that in emergencies, I can unpause the loobback belt, for example of cp2 to ensure I have max production of cp3. I use these belts and balancers extensively, boosting the one of the one I need more of (look at the priorites of the balancer.. prioritising the loopback only fills the storage at full speed, priority output only is full producton to the next stage, usually in conjunction with unpausing the loopback belt and finally 50/50).
+
+what would be really nice is to have some logic to do what my brain does, which is look at which cp box is lowest and boost or unboost the next stage, to constantly refill the parts I'm using the most of. the only way to have full output to storage and the next stage is to have each stage with double the number of machines each stage, but that would mean the stage before it would also need double the machines (ie impossible) -- so I really want a simple way to query values:
+
+```js
+if (storage['all'].cp1 > storage['all'].cp2) { .. }
+```
+
+but the thing is that's extremely uncomfortable to reason about and write. my brain sees a spreadsheet now. I have a column of global storages. I shift+click the values for cp1,cp2,cp3 and use the min function to select the storage with the least and then perform the action (for each of the three cases), the actions that I would put on the balancers... it is afterall, what I'm already doing in the game, but I want he game to repeat the actions like a good employee would. this game assumes I'm running an entire factory all alone and without any others helping me.
+
+upon that, I'd like to relate a story... after I take a break. my goodness, I have a lot to say. this game is like breaking years and years of slience because I didn't have an effective medium to express my ideas. coi is a game that is pretty close to a perfect reflection of how I conceptualised a project/factory way back in 2006. I've come a long ways in my studies of humans and how we communicate. this game has so much to offer because it's kind of like a microcosm of materialistic/reductionist perception. once I wrapped my head around this game, I'm confident in saying that I understand industry and the american (materialistic) way.
+
+please don't misunderstand and think that I dislike reductionist thinking (you'll see that's all I do is reduce things to their simplest from to understand them), and later on when we start talking about future technologies, you'll know that I fully agree with materialstic approach to technology.
+
+real quickly on that, I was kinda miffed when I first found out that power is generated on mechanical shafts by burning things to run steam turbines. I come from the mentality of tesla, which is that solar energy is so plentiful that it's silly *not* to use the sun as a source of energy. quick google search says that "173,000 terawatts of solar energy strikes the Earth continuously" -- and I'm kinda certain that's *not* including the energy entering at the poles from solar wind. the ground has such an tremendous amount of energy inside of it and it only needs to be purturbed only slightly to get that energy out. ground based extraction of energy is pretty possible, and once the ionosphere is made regular, it's now possible to deliver the perturbations on the energy in the ground wirelessly to anywhere between the earth and ionosphere...
+
+HOWEVER, there is tremendous resistance to us gaining the capability to purturb these forces (because the network and all kinds of US govt things use the wireless power and communications it provides) and the last think they want is some hotshot takin the whole system down or making a tunguska sized blast with only tiny perturbations. so, it's understandable. I understand the resistance. I have a plan of using the same principle, using *mechanical* energy, instead of solar energy. it's details like that which also makes me wonder how my perception mirrors this game.
+
+another small thing on that: the way the game is structured, I simply won't touch nuclear energy. in b- I designed a modular power plant that runs on coal and can easily be run by the cement for coal contract -- all the coal's exhaust is scrubbed, and that works out really well, but if you look in that spreadsheet, you'll notice that one of the diesel designs is a power plant, which runs on hydrogen, outputting, (I believe) zero emissions. I still haven't got around to doing the design yet, but antoher challenge I have for myself is an island with lowest possible emissions. I think, if designed right, hydrogen power (from diesel) can make a nearly zero emissions output. this game has taught me that coal is fine if I scrub the pollutants out, nuclear power is an enormous ordeal with nearly no upside and accumlating fuel rods... very bad.
+
+so yeah, me and materialistic/reductionist attitude is extremely compatible, and I think it was this game which helped me to see production as a series of steps... now I'd like to talk about that a moment...
+
+a sequence of operations is exactly what a play or a choreographed dance routine is. each step in the sequence of the individual actors/machines can be optimised so that the whole of the play/factory operates and expresses itself (produces) with greater clarity and unity.
+
+good night. song now is "legions of death -- zombie apocalypse -- run away!" lol.
+
 [1]: ideologies and the perceptions they create are all emotional/conceptual -- which is why people get so emotional about looking at their world diffrently than they're used to. I didn't want to try and look at *different* ideologies, but to instead help them find other people with similar ideologies to them and let the changes happen naturally because nobody has 100% the same concepts/ideologies as another person. we relate better on similarities, than diffreences -- especially in a social setting.
 
 ### how I see plato's world of ideas/forms
