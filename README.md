@@ -373,7 +373,21 @@ disguised as dinosaurs are singing two notable songs: "I don't ever want to give
 
 next, they played a song, "you look like you need a saviour" -- uhhh, no thanks. saviours have a top-down approach to them. they look around and notice everyone and everything that is "not good enough" (as in unsuitable, dying, going extinct, etc.) and then try to save it. the dinosaurs need a saviour, not I. again don't shift the blame or point fingers. the dinosaurs are noticing the reflection of theirselves and then trying to wash theirselves before calling for help (sounds like dependence to me... @[youtube](https://www.youtube.com/watch?v=OIpU7tA2X78)).
 
-now, the velociraptors song are creations by "God" and "God" destroyed the dinosaurs (and all megafauna)
+the previous guys are pretending to be dinosaurs, which makes sense to have such bad ideas in their songs. now, in the velociraptors song, it clarifies the who the dinosaurs are. I brought up the garden of eden symbols responding to the disguised as dinosaurs, because the symbols are present in the velociraptors song too.
+
+the dinosaurs are created by "God".
+humans are also created by "God".
+"God" then destroys the dinosaurs (and all megafauna).
+
+up to here, we're tracking well. the song then asserts that man then destroys "God". this kinda makes sense if we consider enki as "God" -- but if we're talking about YHVH, I'm afraid he's a bit more like enlil. I get the concept though because it's talking more about a progression here:
+
+consider that dinosaurs is likely referring to giants of renown -- the fallen angels that came to earth and taught humankind all of those awful things like metallurgy and cosmetics (enabling us to plunge into materialism and selfishness, no longer needing "God").
+
+after this, man recreates dinosaurs and then dinosaurs eat man -- which is proably a reference to our coming age of genetic engineering and capacity to build even greater men of renown (giants) than was previously possible. it's saying that nothing is ever really lost. I wanted to make a social network. it's not lost. it's my destiny to eventually do such a thing, just like it's the dinosaurs' destiny to return back to their desired form of physical presentation.
+
+I don't disagree at all with that progression -- however, I would like to present my idea, which is that the dinosaurs concept is outdated in the relativity to our present physical environment. going back to dinosaurs would be regression, which becomes aggession, which becomes regression. we can't expect to go forward by going backward. we can only go forward toward improvements. our concept of what it means to be a dinosaur probably has chagned considerably in the last 12ky. it's good to embrace the improvements, and not get stuck swimming the race and relying on any reputations for things to be effortless again.
+
+really quickly, some thoughts on that... relying on one's reputation is a very sales and marketing thing (satisfaction guaranteed) thing as it is a subject of trust. it seems fairly clear to me that the obvious "out" for the dinosaurs, is to rely not on his reputation for trust, but for things to become effortless. I'll say from my perspective that reputation is also quite fragile because you can't control how others perceive you. you can only control how you perceive yourself, and others can join you in that perception. for me, that method is far easier and mentally much less effort, than all the effort that goes into marketing and controlling one's image and medium/media presence. see what I mean?
 
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence
