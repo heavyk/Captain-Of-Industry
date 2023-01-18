@@ -408,6 +408,26 @@ the ones that try to stake out ownership of a medium, are in my mind, very short
 
 content expands consciousness, but not nearly as much as a new medium does.
 
+### 2023-01-17 16:50 - getting to fertilizer
+
+last night I got fertilizer going. I started from `78.2-1` pretty much. a lot of things can be optimised. here is the list I left for myself should I want to start over from `78.2-1` again.
+
+77.7-3:
+- puchase pops
+- cement coal connector
+- research fertilizer
+- delete trading dock designatoins
+
+78.2-1:
+- coal mine designations
+- move one digger to limestone
+- build sulfur to slag
+
+
+I probably won't start over as cp1 graph looks pretty good for `83.8`. while I start making new excavotors, I'll be getting the new 8x adv diesel build going. the thing holding me up on that one and the main reason why I wanted to restart is because I want to put the 4x cargo depot where the seawater pump is at.
+
+after talking about it, I kinda want to restart a bit more now. I think I also want to clean up this repo a bit, as well.
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence
