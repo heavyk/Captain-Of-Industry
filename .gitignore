@@ -1,5 +1,6 @@
 /Logs
 /Console
 /Saves/*-autosave*
+/Saves/*bug*
 /Archived*
 /Console/*history*s

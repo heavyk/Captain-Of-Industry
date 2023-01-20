@@ -5,6 +5,8 @@
 ### bugs
 
 - copying preferences from retaining wall to another doesn't copy priority
+- tutorials panel doesn't exit with right+click away from window
+
 
 ### features
 

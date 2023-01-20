@@ -428,6 +428,25 @@ I probably won't start over as cp1 graph looks pretty good for `83.8`. while I s
 
 after talking about it, I kinda want to restart a bit more now. I think I also want to clean up this repo a bit, as well.
 
+### 2023-01-17 20:36 - redo 4th time
+
+starting over from `77.7-4`.
+
+build iron/coal buckets/belts
+    (also see if I can reduce travel distance)
+better version of slab storage
+build fertilizer pipes
+
+turn off truck export for mt1 + vp1
+turn off mp1 from vp2
+skip first 5 squares for dock
+
+### 2023-01-20 01:54 - 5th time restarting
+
+I made quite a bit of progress restarting last time (see saves), and when it finally came to actually getting the stuff to the vehicle depot 2, I didn't actually put up on the hill there. instead, I put it where I made the bridges. what that means is I never needed those bridges in the first place (I built them to put the belts under them). I have two options: I can restart from `q- 77.7-4` -- but I already paid the unity for the bridges, so I can cancel them -- or, I can go back to a really old save (cause since `q- 77.7` the bridges are built) and just redo the whole thing (prolly what I'm going to do).
+
+anyway, the night before last was so productive, I managed to accomplish all the stuff from the night previous in probably half the time and my production was also considerabley higher.
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence
