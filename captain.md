@@ -6,7 +6,8 @@
 
 - copying preferences from retaining wall to another doesn't copy priority
 - tutorials panel doesn't exit with right+click away from window
-
+- (unverified) when deconstructing, if there 2 buildings constructing that need 30 cp1 and I'm deconstructing a building with > 60 cp1, the truck will make 2 loads, instead of loading 60 and dropping max to each construction site (then probably leaving the rest in the shipyard)
+- (broken pipes save) build the pipe and it'll immediately crash. seems on that slope, it makes invalid pillars placement, but doesn't recognise it until after constructed
 
 ### features
 
@@ -14,7 +15,8 @@
 - ability to set speed of a belt. sometimes I want to reduce the speed of a belt, to limit loopback output.
 - put balancers and sorters at altitude > 0
 - ability to put pillars above balancers and sorters.
-  - in fact, as a performance improvement, it'd be nice to not render pillars where belts are stacked (they already look like they're on top of each other )
+  - in fact, as a performance improvement, it'd be nice to not render pillars where belts are stacked (they already look like they're on top of each other)
+- ability to set something "idle" priority (meaning, that only do this if there are no other jobs for some seconds)
 
 ## reported
 
@@ -26,7 +28,10 @@
 
 - also the ability to partially unity build something sending the hand to get materials acrooss the map easily (also useful in the early game to save diesel)
 
-- priorites panel: it'd be cool to have a panel where priorities can be given names and their priorities reordered by dragging them around. the idea is I can create a list of priorities like "oil", "iron", "steel", etc. and then I can arrange their order. additional options can be set on a per-priority basis like "allow partial loads".
+- priorites panel: it'd be cool to have a panel where priorities can be given names and their priorities reordered by dragging them around. the idea is I can create a list of priorities like "oil", "iron", "steel", etc. and then I can arrange their order.
+  - additional options can be set on a per-priority basis like:
+    - "allow partial loads"
+    - "idle priority" with the ability to customise after how much time of being idle threshold.
 
 
 ### improvements to existing functionality
@@ -42,7 +47,6 @@
   - a slider like the buckets/boxes to set how full you want the data centre to be.
 
 ### small things
-
 
 - when upgrading a world structure, the only way to cancel the upgrade is in the shipyard. also, the "load cargo"  button doesn't exist until I cancel the upgrade in the shipyard (no way to cancel the upgrade in the world). (same thing for "start repairs button" -- also, no way to cancel it)
 

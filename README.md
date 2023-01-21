@@ -447,6 +447,14 @@ I made quite a bit of progress restarting last time (see saves), and when it fin
 
 anyway, the night before last was so productive, I managed to accomplish all the stuff from the night previous in probably half the time and my production was also considerabley higher.
 
+### 2023-01-20 21:34 - seems good
+
+I like my progress last night. it seems like I managed to do quite a bit in a short period of time. last night, I let the game run a little far further before turning it off and it appears that my limitation now is mining (not enough copper, coal, and iron to keep up with production now), so it looks like it's time to actually upgrade to vechicle depot 2 now.
+
+tasks:
+- coal belt from cement all the way over to the machines (requires to move air separator)
+- vd2
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence
