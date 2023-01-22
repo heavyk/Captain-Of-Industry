@@ -455,6 +455,27 @@ tasks:
 - coal belt from cement all the way over to the machines (requires to move air separator)
 - vd2
 
+### 2023-01-21 19:11 - electronics and steel
+
+last night, I was extremely successful at getting both the fertilizer and the vd2 at the same time. I let the game run forward a bit to see potential difficulties. electronics production is holding me how many cp2 I can create (including using e1 for maintenance and vp1). expanding copper smelting is really high priority, but there's a whole lot of dirt in the way. the problem with dirt is that I need to convert it into cp1, which means I need to be building a lot of things.
+
+the other thing that's holding me up is steel production (used for making mp1, vp1, and le1). this requires me mine out the iron mountain in the way, and will take a moment. while I'm doing both of those things, its time to get the cargo depot setup and bringing in crude from the world and build the 8x adv diesel setup in the front of the shipyard.
+
+last night's notes:
+
+- build rubber belt
+- second refuel truck
+- slag bucket
+  - different angle cause of coal belt
+- adv logistics to reduce rock/dirt truck trips
+- dig out second iron smelter:
+  - 2 excavators on iron is sufficient (and way faster, because need second steel)
+- dig out second copper smelter
+  - this produces a lot of dirt, so be sure slag doesn't back up
+- dig middle rock part to build cd1 pier
+  - start oil rig
+- build tech3 stuff
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence
