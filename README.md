@@ -463,7 +463,6 @@ the other thing that's holding me up is steel production (used for making mp1, v
 
 last night's notes:
 
-- build rubber belt
 - second refuel truck
 - slag bucket
   - different angle cause of coal belt
@@ -475,6 +474,40 @@ last night's notes:
 - dig middle rock part to build cd1 pier
   - start oil rig
 - build tech3 stuff
+
+### 2023-01-22 22:18 - import crude (a trip into prose and cons)
+
+last night, I got pretty far. I added a little more power. I started to setup the new 8x adv diesel in front of the sy, but because I don't have thermal desal yet (it's t3), I have to use basic distillers instead. they put out 2x36 + 2x24 from sws (120 total). that's good enough to run 2 boilers. 9+6+6 steam is all I need for each stage. I'm planning for 4 stages at the start, so that's 42 steam I need. I have enough heavy oil for one boiler, and a lot of extra light oil. I'm likely going to store it in containers, converting it to fuel gas after researching distallation stage 3. the other idea I thought of just now is maybe use it for power. I have so much coal, it makes tons of sense to keep using that for power.
+
+I'm actually faced with a decision (one of which I'll try tonight and the other, probably another time). there are 3 major routes I see taking, but I'll describe the two extremes here: store the light/heavy oil and power my burners with coal -- or, burn all the light/heavy oil for steam, powering my diesel and using any extra to power a small power plant.
+
+the advantages of putting the
+
+(and I'll import more on the beach there when I get another cargo ship doing cement for coal contract)
+
+2MW (one boiler w/ t1 turbines), is produced by 3x stage2 modules. 3x stage2 modules also produces 108 diesel. diesel generators produce 180KW for 3 diesel. that means converting crude into power yields 6.4MW of power for diesel, 2MW from the light oil and 1.5MW from heavy oil. that's a TON of power... it's extremely polluting though. let's compare, becaause I was originally going to power everything off of coal and using exhause filtration to keep pollution low.
+
+#### 10MW filtered (and modular) coal power plant
+
+featured in `b-`, this runs 5 coal boilers, each producing 36e, which is 180e, then scrubbed, yielding (24 pollution).
+
+#### 10MW unfiltered coal (current system)
+
+this also runs 5 coal boilers, each producing 36e, put directly into the env, outputing (90 pollution)
+
+#### 6.4MW + 2MW + 1.5MW power plant
+
+48e for light oil, 45e for heavy oil boiler (running 75%), yielding 93e (46.5 pollution). add on 36 diesel generators producing 108 pollution, yeilding (154.5 pollution).
+
+---
+
+after figuring all of that out, I think the plan is this: I'm going to burn all excess diesel in that ultra pollutant (and maintenance) heavy system. it's actually not all that much, because I'm using about 25% of the 10MW output right now, and my pollution is at ~216 (and ~30 comes from the coal burners), so increasing 30 pollution up to 52 pollution is probably not that big of a deal.
+
+I'll put all of it and the power plants in that extra space there in front of the shipyard. I'll build a whole lot of excavators and make some more space for farms asap (to expand the population). meanwhile, I can dig out all of that dirt there (where my current power plant is), and continue to expand production there. I know this probably sounds extremely wasteful, but as soon as I've dug that spot out, I'll probably run a crude pipe over there and remake the power plant over there (hopfully with t2 turbines), continuing the high pollution trend for a little while longer.
+
+I kinda like this idea actually, because the increased maintenance (from the diesel generators) means I'll be burning e1 and mp1 into m1,which is nice because I have lots of copper and iron to burn through to whittle away at those mountains (I'll be sustainable, importing from contracts, long before those mountains are gone). there's also another really cool aspect to it as well, which is that once I get the exhaust filtration system and the area I'm at now is cleared out, I'll be able to upgrade to the filtered and modular coal system to use up all of that coal in the ground there. nice.
+
+I'll probably delete some of these saves, as I already have better ideas of how to do it.
 
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
