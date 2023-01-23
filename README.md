@@ -509,6 +509,24 @@ I kinda like this idea actually, because the increased maintenance (from the die
 
 I'll probably delete some of these saves, as I already have better ideas of how to do it.
 
+### 2023-01-23 00:51 - moving things up top (and unity building them)
+
+I was looking at the captain's diary on the website noticed in one of the pictures they featured, someone ran a pipe from the groundwater resources up on the top level of ysnp down to the middle. I dunno how I feel about that honestly, as my prediction of being able to do this level easily didn't even include taking any extra water down from the top there.
+
+I was thinking about it in real-life, you'd send some hikers up there with resources to build the groundwater pump, or just sorta fly them over there like how you get people on the oil rigs. I guess these sorts of details are covered over by the "unity build" feature. I guess in the future, this is a potential detail that can be added to the game, where unity building cost is actually a more advanced formula, that considers that somehow the resources will end up in the location by a means not a part of the present island's capabilities.
+
+once planning mode is improved to more accurately visualise the island after terrain is adjusted and the machines working properly (see features), unity building could then become something that happens over time -- which is, from a builder's perspective, just hiring a subcontractor. therefore, if it can be verifined ahead of time that the construction will work properly, it's now not so necessary to have unity building be instant, meaning the "unity cost" (which can be variable) and the time it takes can be a function of some factors.
+
+imagine for a moment that the planning mode had a thing like "projects" and in each project you import a portion of the island, including the terrain you're going to build on into the planner, then adjust the terrain to be how you want it (which is flat, usually), and then run the machines there. when importing from a portion of the factory with pipes/belts, they get imported into the interface as pipe/belt inputs/outputs and can have their values set in the simplation. or, for example, if there needs to be a pipe/belt adjustment in the factory, just redesign it (add and remove the belts needed for the new setup) and then once the project is setup, it can be unity built for a cost. this is nice because often times I have to (un)pause a few times during various stages of construction, and it'd be nice to have it all built in one go.
+
+once such a planning mode is created, the unity build feature can now be seen like hiring a subcontractor. I want to avoid the concept of money though, so I think of this as, how could industrious people living on the island be able to speed up construction of something, just because they're happier and have more well-being (ie unity), so I imagine unity right after arriving to the island as like a sort of favour or friendly/neighbourly help (maybe putting in overtime). in lategame, however when flying things are available and abundance abounds, this is just some guy that has spare time an some robotics knowledge that can build things for you or maybe even some kinds of tech startups (kinda like 3d printing) that can offer solutions to create designed systems anywhere on the planet (for a unity cost, of course).
+
+therfore, it could even be a thing to research new unity building techniques. like maybe start with hikers carrying resources up the mountain to build it, but then later it could be drones, then later nanobots or something for ultrafast assembly etc. each of these more effective ways to unity build something, can be researched.
+
+---
+
+so, what I was thinking is just sorta "cheat" a little bit and skip the desal for a bit. however, I really just don't like the idea of running pipes down the moutain. therefore I feel like I need to either make another rule (besides the no throwing dirt/slag in the sea), which is that I can only use the first groundwater resource. I mean, I kinda feel like the groundwater pump is a bit cheating anyway, and I may try one day to do it without groundwater pumps at all (cause I wouldn't think an island to have fresh groundwater). maybe I'll try that next playthrough, actually. seems like an interesting challenge, actually (I'd put a bunch of basic distillers next to the city). anyway, for now, I'm actually thinking about not doing the groundwater pump thing actually because I don't really like the aesthetics of a pipe running up the mountain.
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence

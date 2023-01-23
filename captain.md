@@ -21,6 +21,7 @@
 
 - ability to expand mining areas by clicking and draging them (horizontal and diagonals).
 - in the research and recipes panels, when hovering over the machine, it'd be nice to see a popup with the machine's stats (like buildings listed in resarch panel under "unlocks")
+- groundwater pump and oil pump can try out a "sliding alert" (like the keep empty/full sliders) to set at what amount it tells me the reserve is low.
 - sometimes I want to just make a connector. perhaps, when clicking on the belt/pipe when it shows the connector (this starts the pipe laying), if I click again on the same spot, it'll just put the connector (*screenshot*). workaround is to just copy an existing connector.
 
 ### annoyances (recently noticed)
