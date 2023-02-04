@@ -451,6 +451,10 @@ therfore, it could even be a thing to research new unity building techniques. li
 
 so, what I was thinking is just sorta "cheat" a little bit and skip the desal for a bit. however, I really just don't like the idea of running pipes down the moutain. therefore I feel like I need to either make another rule (besides the no throwing dirt/slag in the sea), which is that I can only use the first groundwater resource. I mean, I kinda feel like the groundwater pump is a bit cheating anyway, and I may try one day to do it without groundwater pumps at all (cause I wouldn't think an island to have fresh groundwater). maybe I'll try that next playthrough, actually. seems like an interesting challenge, actually (I'd put a bunch of basic distillers next to the city). anyway, for now, I'm actually thinking about not doing the groundwater pump thing actually because I don't really like the aesthetics of a pipe running up the mountain.
 
+### 2023-02-04 14:41 - food is the next limit
+
+I played quite far into the future and (see saves), and I noticed that the major limiting factor is actually going to be food. I can put the farm to the right of the settlement back, but it feels cramped and I want to fill that space with the dpp, so I'm going to probably dig instead into the side of the mountain and expand to the left. we'll see. I'm not actually sure how I'm going to solve it yet. I also don't know if I'm going to start back a bit.
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence
