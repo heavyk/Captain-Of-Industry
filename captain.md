@@ -6,6 +6,7 @@
 - tutorials panel doesn't exit with right+click away from window
 - (unverified) when deconstructing, if there 2 buildings constructing that need 30 cp1 and I'm deconstructing a building with > 60 cp1, the truck will make 2 loads, instead of loading 60 and dropping max to each construction site (then probably leaving the rest in the shipyard)
 - (broken pipes save) build the pipe and it'll immediately crash. seems on that slope, it makes invalid pillars placement, but doesn't recognise it until after constructed
+- if I unpause cargo boat, it starts to leave, I pause it right afterward and it goes and fetches cargo but without crew ald comes back still paused (it does consume fuel though)
 
 ### features (recently noticed)
 

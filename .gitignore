@@ -2,5 +2,6 @@
 /Console
 /Saves/*-autosave*
 /Saves/*bug*
+/Saves/save_*
 /Archived*
 *nocommit*
