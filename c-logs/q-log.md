@@ -455,6 +455,10 @@ so, what I was thinking is just sorta "cheat" a little bit and skip the desal fo
 
 I played quite far into the future and (see saves), and I noticed that the major limiting factor is actually going to be food. I can put the farm to the right of the settlement back, but it feels cramped and I want to fill that space with the dpp, so I'm going to probably dig instead into the side of the mountain and expand to the left. we'll see. I'm not actually sure how I'm going to solve it yet. I also don't know if I'm going to start back a bit.
 
+### 2023-02-10 15:35 - try the coasting technique
+
+I have a lot of things to build and also a whole bunch of mountain to clear, so I'm just going to coast for a while while digging out the farms. that's the plan, anyway.
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence

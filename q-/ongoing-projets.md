@@ -27,14 +27,10 @@ while playing, I keep notes in a separate document, so I thought I would organis
 
 ---
 
-### now
+### dover
 
 - upgrade slag belt
 - oil pipes
-
-- excess water to settlement
-
-- build sws module
 - export off vd2 diesel
 - pause flare
 - dpp:
@@ -43,10 +39,17 @@ while playing, I keep notes in a separate document, so I thought I would organis
 - 1 excavator copper
 - 2 excavator iron
 - dig out middle section rock to build cd4 pier
-
 - build 2-4 of the the 8x diesel power plant
   - brine dump
   - sws module
+
+### now
+
+- sulfur to slag for front sws
+- remove back fuel tank (only refill at fuel station)
+- not only assigned to dirt bucket
+- fertilizer for more food, for more pops
+- turn on more distillers and excess water to settlement (can potentially get rid of ones on side of city)
 - put t3 labs next to iron dump
 
 ### asap
@@ -64,3 +67,4 @@ while playing, I keep notes in a separate document, so I thought I would organis
 - convert all dirt on inner platform into bricks
 
 ### eventually...
+
