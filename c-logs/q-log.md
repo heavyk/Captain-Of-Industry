@@ -465,6 +465,8 @@ I had a lot of success doing the coasting technique (see saves), getting space f
 
 apparently, the next update is going to remove save compatibility, and though it'd be sweet to have a way to import an old save, I think it's fine to start over -- so once I get t3, I'm going to make a bunch of blueprints.
 
+I also noticed that I liked (in [ongoing projects](/q-/ongoing-projets.md)) to keep a log of things I accomplished since last save so that I can compress the tesks if I start over. I'm going to start doing that more
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence

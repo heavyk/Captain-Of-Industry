@@ -71,6 +71,7 @@ while playing, I keep notes in a separate document, so I thought I would organis
 
 ### done (since 93.9-2)
 
+- research blueprints
 - brine recipe for dumps
 - add nitrogen pipe for chem plants
 - sws sulfur belt + amonia pipe
