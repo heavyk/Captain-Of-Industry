@@ -467,6 +467,10 @@ apparently, the next update is going to remove save compatibility, and though it
 
 I also noticed that I liked (in [ongoing projects](/q-/ongoing-projets.md)) to keep a log of things I accomplished since last save so that I can compress the tesks if I start over. I'm going to start doing that more
 
+### 2023-02-12 15:07 - going to program for a bit
+
+I've decided that I'd rather to spend this time programming. I've come to really appreciate queue based systems and, I think this game is pretty inspiring as well. it's influenced the way I see spereadsheets and also given me an insight into software development as well. here are the latest saves
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence

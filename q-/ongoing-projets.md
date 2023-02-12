@@ -72,11 +72,33 @@ while playing, I keep notes in a separate document, so I thought I would organis
 ### done (since 93.9-2)
 
 - research blueprints
+- unload ship crew
 - brine recipe for dumps
-- add nitrogen pipe for chem plants
 - sws sulfur belt + amonia pipe
 - prioritise iron over steel for mp1
-- fix iron exhaust (fixes steel)
-- upgrade crude input pipe
+- add nitrogen pipe for chem plants
 - priorites for chem plants
-- leave for wood 95.12
+- upgrade crude input pipe
+
+### done (since 93.9-3)
+
+- start mining next to farm (build mine tower)
+- load parts to upgrade oil rig
+- fix iron exhaust (fixes steel)
+
+### done (since 94.1)
+
+- slag loopback belt
+- fix dpp exhaust (for settlement water pipe)
+- unpause nitrogen pipe (after fixing iron exhaust)
+
+- expand sand mine
+- excavator at 94.10
+- excavator at 96.1
+
+- move settlement water over to desals
+- move coal/sand belts over and add concrete
+- fix cp boxes exports
+
+
+- leave for wood 95.12 (and)

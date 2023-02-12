@@ -7,6 +7,7 @@
 - (unverified) when deconstructing, if there 2 buildings constructing that need 30 cp1 and I'm deconstructing a building with > 60 cp1, the truck will make 2 loads, instead of loading 60 and dropping max to each construction site (then probably leaving the rest in the shipyard)
 - (broken pipes save) build the pipe and it'll immediately crash. seems on that slope, it makes invalid pillars placement, but doesn't recognise it until after constructed
 - if I unpause cargo boat, it starts to leave, I pause it right afterward and it goes and fetches cargo but without crew ald comes back still paused (it does consume fuel though)
+- when the trucks bring parts to build/upgrade a bunch of building/pipes in an area, they don't seem to bring enough parts. I think it's the same problem as the next tree lookup, also where they're simply not looking into a big enough area -- because, unless the rest of the parts need to be delivered across the island (and there are parts available over there), it's always more efficient to carry as many parts to a bunch of locations within an area.
 
 ### features (recently noticed)
 
@@ -17,6 +18,7 @@
 - ability to set something "idle" priority (meaning, that only do this if there are no other jobs for some seconds)
 - alarm to notify me (or visual way to see) when a building has not been active for some period of time
 - on world resources, "load cargo" has an option (checkbox?) to return after loading.
+- it'd be cool to have the blueprints folder match the blueprints dir structure in the game as well.. probably not optimised for large amounts of bps, but it's easier for having a diff. maybe a developer mode where the bps are even stored in a text format.
 
 ### improvements to existing functionality (recently noticed)
 
