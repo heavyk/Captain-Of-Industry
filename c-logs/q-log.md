@@ -459,6 +459,12 @@ I played quite far into the future and (see saves), and I noticed that the major
 
 I have a lot of things to build and also a whole bunch of mountain to clear, so I'm just going to coast for a while while digging out the farms. that's the plan, anyway.
 
+### 2023-02-12 06:10 - coasting technique works well
+
+I had a lot of success doing the coasting technique (see saves), getting space for nearly one more farm cleared out. I'm going to repeat the same thing, meanwhile building a bunch of things for the next stage. my goal is to get to tech 3 and blueprint a bunch of things.
+
+apparently, the next update is going to remove save compatibility, and though it'd be sweet to have a way to import an old save, I think it's fine to start over -- so once I get t3, I'm going to make a bunch of blueprints.
+
 ### part of pluto / take two
 ### how I see plato's world of ideas/forms
 ### mechanic of the sequence

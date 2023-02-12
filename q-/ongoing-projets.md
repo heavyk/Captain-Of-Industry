@@ -68,3 +68,14 @@ while playing, I keep notes in a separate document, so I thought I would organis
 
 ### eventually...
 
+
+### done (since 93.9-2)
+
+- brine recipe for dumps
+- add nitrogen pipe for chem plants
+- sws sulfur belt + amonia pipe
+- prioritise iron over steel for mp1
+- fix iron exhaust (fixes steel)
+- upgrade crude input pipe
+- priorites for chem plants
+- leave for wood 95.12
